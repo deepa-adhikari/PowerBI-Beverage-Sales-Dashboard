@@ -8,7 +8,7 @@ This project is an interactive Power BI dashboard developed to analyse beverage 
 
 ## Dashboard Preview
 
-> Add a screenshot of your dashboard here (`dashboard.png`).
+![Dashboard Preview](salesdashboard.png)
 
 ## Key Metrics
 
